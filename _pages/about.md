@@ -24,8 +24,9 @@ Here is my [CV](../assets/Curriculum_Vitae.pdf):.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Our paper Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning is accpeted by [AI for Visual Arts Workshop and Challenges (AI4VA)](https://sites.google.com/view/ai4vaeccv2024) in ECCV 2024.
+- *2022.09*: &nbsp;🎉🎉 Our paper for enhancing 3D Gaussian Splatting for novel view synthesis under sparse view is submitted to ICASSP 2025.
+- *2022.08*: &nbsp;🎉🎉 2nd place in [AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://codalab.lisn.upsaclay.fr/competitions/17705) in ECCV 2024 and our method Fast Sequential Motion Diffusion (FSMD) is selected to present in the summary [paper](https://arxiv.org/pdf/2409.17256).
+- *2022.08*: &nbsp;🎉🎉 Our paper Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning is accpeted by [AI for Visual Arts Workshop and Challenges (AI4VA)](https://sites.google.com/view/ai4vaeccv2024) in ECCV 2024.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
