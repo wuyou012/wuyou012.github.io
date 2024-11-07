@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a final year undergraduate student from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/en/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). 
+Hi, I'm Zongqi He, currently a final year undergraduate student from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/en/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). 
 I am very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.polyu.edu.hk/~enkmlam/). 
+
 My research interest includes computer vision, deep learning , low-level vision and 3D reconstruction.
 Here is my [CV](../assets/Curriculum_Vitae.pdf):.
 
