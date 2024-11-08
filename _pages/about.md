@@ -25,6 +25,8 @@ Here is my [CV](../assets/Curriculum_Vitae.pdf):.
 
 
 # 🔥 News
+- *2022.10*: &nbsp;🎉🎉 Our paper MFGan: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusing is accpeted by [International Workshop on Advanced Image Technology (IWAIT)](https://iwait.online/) 2025.
+- *2022.10*: &nbsp;🎉🎉 Our paper A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification is accpeted by [Asia-Pacific Signal and Information Processing Association](https://www.apsipa.org/) 2024.
 - *2022.09*: &nbsp;🎉🎉 Our paper for enhancing 3D Gaussian Splatting for novel view synthesis under sparse view is submitted to ICASSP 2025.
 - *2022.08*: &nbsp;🎉🎉 2nd place in [AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://codalab.lisn.upsaclay.fr/competitions/17705) in ECCV 2024 and our method Fast Sequential Motion Diffusion (FSMD) is selected to present in the summary [paper](https://arxiv.org/pdf/2409.17256).
 - *2022.08*: &nbsp;🎉🎉 3rd place in [AIM 2024 Challenge on Sparse Neural Rendering] in ECCV 2024 on both [Track 1 - 3 views](https://codalab.lisn.upsaclay.fr/competitions/19222) and [Track 2 - 9 views](https://codalab.lisn.upsaclay.fr/competitions/19223) and our method Enhanced SparseNeRF is selected to present in the summary [paper](https://arxiv.org/pdf/2409.15045).
@@ -41,7 +43,7 @@ Marcos V. Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Rad
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_Sparse.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_ESNeRF.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AIM 2024 Sparse Neural Rendering Challenge: Methods and Results](https://arxiv.org/abs/2409.15045)
