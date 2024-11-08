@@ -29,24 +29,33 @@ Here is my [CV](../assets/Curriculum_Vitae.pdf):.
 - *2022.08*: &nbsp;🎉🎉 2nd place in [AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://codalab.lisn.upsaclay.fr/competitions/17705) in ECCV 2024 and our method Fast Sequential Motion Diffusion (FSMD) is selected to present in the summary [paper](https://arxiv.org/pdf/2409.17256).
 - *2022.08*: &nbsp;🎉🎉 Our paper Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning is accpeted by [AI for Visual Arts Workshop and Challenges (AI4VA)](https://sites.google.com/view/ai4vaeccv2024) in ECCV 2024.
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/pdf/2409.17256)
+
+Marcos V. Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu Timofte, **Zongqi He** et al.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_Sparse.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AIM 2024 Sparse Neural Rendering Challenge: Methods and Results](https://arxiv.org/abs/2409.17256)
+
+Michal Nazarczuk, Sibi Catley-Chandar, Thomas Tanay, Richard Shaw, Eduardo Pérez-Pellitero, Radu Timofte, **Zongqi He** et al.
+
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning
 
-Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi HE**, Hao Xie, Kin-Man Lam
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-[AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/pdf/2409.17256)
-
-Marcos V. Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu Timofte, **Yushen Zuo** et al.
+Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**, Hao Xie, Kin-Man Lam
 
 </div>
 </div>
