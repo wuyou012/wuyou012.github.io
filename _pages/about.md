@@ -21,6 +21,7 @@ Hi, I'm Zongqi He, currently a final year undergraduate student from [Department
 I am very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.polyu.edu.hk/~enkmlam/). 
 
 My research interest includes computer vision, deep learning , low-level vision and 3D reconstruction.
+
 Here is my [CV](../assets/Curriculum_Vitae.pdf):.
 
 
@@ -31,6 +32,7 @@ Here is my [CV](../assets/Curriculum_Vitae.pdf):.
 - *2022.08*: &nbsp;🎉🎉 2nd place in [AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://codalab.lisn.upsaclay.fr/competitions/17705) in ECCV 2024 and our method Fast Sequential Motion Diffusion (FSMD) is selected to present in the summary [paper](https://arxiv.org/pdf/2409.17256).
 - *2022.08*: &nbsp;🎉🎉 3rd place in AIM 2024 Challenge on Sparse Neural Rendering in ECCV 2024 on both [Track 1 - 3 views](https://codalab.lisn.upsaclay.fr/competitions/19222) and [Track 2 - 9 views](https://codalab.lisn.upsaclay.fr/competitions/19223) and our method Enhanced SparseNeRF is selected to present in the summary [paper](https://arxiv.org/pdf/2409.15045).
 - *2022.08*: &nbsp;🎉🎉 Our paper Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning is accpeted by [AI for Visual Arts Workshop and Challenges (AI4VA)](https://sites.google.com/view/ai4vaeccv2024) in ECCV 2024.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="80%"></div></div>
