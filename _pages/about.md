@@ -74,7 +74,7 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 - *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place. 
 
 # 📖 Educations
-- *2021.09 - 2024.11 (now)*, The Hong Kong Polytechnic University. 
+- *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
 
 # 💻 Internships
 - *2022.06 - 2022.08*, [Plaper (HK) Limited](https://plaper.hk/), Hong Kong.
