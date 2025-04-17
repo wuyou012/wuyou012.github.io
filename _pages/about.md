@@ -22,14 +22,16 @@ I am very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.p
 
 My research interest includes computer vision, deep learning , low-level vision and 3D reconstruction.
 
-Here is my [CV](../assets/Curriculum_Vitae.pdf):.
+Here is my [CV](../assets/CV_Zongqi_He.pdf):.
 
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Our two papers have been submitted to ACMMM 2025.
-- *2025.03*: &nbsp;🎉🎉 Our teams have achieved top ranks in three NTIRE 2025 Challenges.
+- *2025.03*: &nbsp;🎉🎉 Our team has achieved top ranks in three NTIRE 2025 Challenges.
 - *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to IEEE Transactions on Visualization and Computer Graphics (TVCG).
-- *2025.01*: &nbsp;🎉🎉 Our paper on has been accepted by International Conference on Acoustics, Speech, and Signal Processing 2025 (ICASSP).
+- *2025.01*: &nbsp;🎉🎉 Our paper has been accepted by International Conference on Acoustics, Speech, and Signal Processing 2025 (ICASSP).
+- *2024.10*: &nbsp;🎉🎉 Our paper MFGan: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusing is accpeted by [International Workshop on Advanced Image Technology (IWAIT)](https://iwait.online/) 2025.
+- *2024.10*: &nbsp;🎉🎉 Our paper A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification is accpeted by [Asia-Pacific Signal and Information Processing Association](https://www.apsipa.org/) 2024.
 
 # 📝 Publications 
 
@@ -76,11 +78,13 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 
 # 🎖 Honors and Awards
 - *2025.03* NTIRE 2025 Challenge on Night Photography Rendering - 5th place.
-- *2025.03* NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild - Track 1 - 3rd place.
 - *2025.03* NTIRE 2025 Challenge on Ambient Light Normalization - 6th place.
+- *2025.03* NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild - Track 1 - 3rd place.
 - *2024.08* AIM 2024 Challenge on Sparse Neural Rendering - Track 1 - 3 views - 3rd place.
 - *2024.08* AIM 2024 Challenge on Sparse Neural Rendering - Track 2 - 9 views - 3rd place.  
 - *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place. 
+- *2022-2024* two years of Dean’s Honours List
+- *2023* HK - Government Talent Development Scholarship
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
