@@ -82,8 +82,14 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 - *2024.08* AIM 2024 Challenge on Sparse Neural Rendering - Track 1 - 3 views - 3rd place.
 - *2024.08* AIM 2024 Challenge on Sparse Neural Rendering - Track 2 - 9 views - 3rd place.  
 - *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place. 
-- *2022-2024* two years of Dean’s Honours List
-- *2023* HK - Government Talent Development Scholarship
+- *2022-2024* Dean’s Honours List (two years)
+- *2023* HKSAR Government Talent Development Scholarship
+
+# 💻 Project Experience
+*Enhancing Sparse-view 3D Gaussian Splatting
+  *We proposed a novel 3D Gaussian Splatting method, SIDGaussian, for novel view synthesis under extremely sparse input   conditions. We designed a semantic regularization and local depth regularization
+    *📝 This work has been accepted by ICASSP 2025.
+After that, we try to explore the potential of leverage diffusion model to enhance sparse-view 3DGS. Our paper have submitted to ACMMM
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
