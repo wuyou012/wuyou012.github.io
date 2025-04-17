@@ -22,7 +22,7 @@ I am very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.p
 
 My research interest includes computer vision, deep learning , low-level vision and 3D reconstruction.
 
-Here is my [CV](../assets/CV_Zongqi_He.pdf):.
+Here is my [CV](../assets/CV_Zongqi_He.pdf).
 
 
 # 🔥 News
@@ -110,7 +110,10 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 - *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
 
 # ✈️ Travel around
-I love exploring different cultures, landscapes, and lifestyles through travel. So far, I have been to 🇰🇭 Cambodia 🇦🇺 Australia 🇯🇵 Japan
+I love exploring different cultures, landscapes, and lifestyles through travel. So far, I have been to
+- Cambodia 🇰🇭 
+- Australia 🇦🇺 
+- Japan 🇯🇵
 
 # 💻 Internships
 - *2022.06 - 2022.08*, [Plaper (HK) Limited](https://plaper.hk/), Hong Kong.
