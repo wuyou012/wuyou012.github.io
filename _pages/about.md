@@ -86,10 +86,17 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 - *2023* HKSAR Government Talent Development Scholarship
 
 # 💻 Project Experience
-*Enhancing Sparse-view 3D Gaussian Splatting
-  *We proposed a novel 3D Gaussian Splatting method, SIDGaussian, for novel view synthesis under extremely sparse input   conditions. We designed a semantic regularization and local depth regularization
-    *📝 This work has been accepted by ICASSP 2025.
-After that, we try to explore the potential of leverage diffusion model to enhance sparse-view 3DGS. Our paper have submitted to ACMMM
+* **UV prediction using GNN**
+  * I am working as a student assistant under Prof. Mengyin Li, focusing on UV index prediction around Hong Kong using Graph Neural Networks (GNNs).
+* **Enhancing Sparse-view 3D Gaussian Splatting**
+  * We proposed a novel 3D Gaussian Splatting method, SIDGaussian, for novel view synthesis under extremely sparse input conditions. We designed a semantic regularization and local depth regularization.
+    * 📝 This work has been accepted by ICASSP 2025.
+  * After that, we explored the potential of leveraging diffusion models to enhance sparse-view 3DGS.
+    * 📝 Our paper has been submitted to ACMMM 2025.
+* **Retina OCT Image Denoising and Classification**
+  * Proposed the FD Loss into the GAN architecture, which helps preserve the structural integrity of OCT images
+    during denoising. 
+    * 📝 This work has been accepted by APSIPA 2024.
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
