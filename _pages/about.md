@@ -109,9 +109,9 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
 
-# ✈️ Travel around
+<!-- # ✈️ Travel around
 I love exploring different cultures, landscapes, and lifestyles through travel. So far, I have been to
-<span>&#127469;&#127472;</span> <span>&#127474;&#127476;</span> <span>&#127472;&#127475;</span> <span>&#127462;&#127482;</span> <span>&#127471;&#127477;</span>
+<span>&#127469;&#127472;</span> <span>&#127474;&#127476;</span> <span>&#127472;&#127475;</span> <span>&#127462;&#127482;</span> <span>&#127471;&#127477;</span> -->
 
 # 💻 Internships
 - *2022.06 - 2022.08*, [Plaper (HK) Limited](https://plaper.hk/), Hong Kong.
