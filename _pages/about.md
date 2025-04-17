@@ -35,7 +35,7 @@ Here is my [CV](../assets/CV_Zongqi_He.pdf):.
 
 # 🚧 Ongoing Projects
 * Gaussian Avatar: Developing a dynamic avatar system using 3D Gaussian Splatting to enable expressive and real-time human rendering.
-* Novel View Synthesis: Enhancing sparse view Gaussian Splatting with multi view consistence diffusion model, explore the 360 degree scenes.
+* Novel View Synthesis: Enhancing sparse view Gaussian Splatting with multi-view consistent diffusion strategy, explore the 360 degree scenes.
 * Test Time Scaling: Exploring test-time scaling strategies within cutting-edge text-to-image generation frameworks.
 
 # 📝 Publications 
@@ -97,7 +97,10 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
   * We proposed a novel 3D Gaussian Splatting method, SIDGaussian, for novel view synthesis under extremely sparse input conditions. We designed a semantic regularization and local depth regularization.
     * 📝 This work has been accepted by ICASSP 2025.
   * After that, we explored the potential of leveraging diffusion models to enhance sparse-view 3DGS.
-    * 📝 Our paper has been submitted to ACMMM 2025.
+    * Our paper has been submitted to ACMMM 2025.
+* **Medical Image Analysis**
+  * Built a novel visual odometry pipeline for colonoscopic navigation, achieving robust depth and pose estimation under illumination shifts.
+    * Our paper has been submitted to ACMMM 2025.
 * **Retina OCT Image Denoising and Classification**
   * Proposed the FD Loss into the GAN architecture, which helps preserve the structural integrity of OCT images
     during denoising. 
@@ -105,6 +108,9 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
+
+# ✈️ Travel around
+I love exploring different cultures, landscapes, and lifestyles through travel. So far, I have been to 🇰🇭 Cambodia 🇦🇺 Australia 🇯🇵 Japan
 
 # 💻 Internships
 - *2022.06 - 2022.08*, [Plaper (HK) Limited](https://plaper.hk/), Hong Kong.
