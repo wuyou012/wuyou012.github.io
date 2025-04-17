@@ -75,12 +75,15 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 </div>
 
 # 🎖 Honors and Awards
+- *2025.03* NTIRE 2025 Challenge on Night Photography Rendering - 5th place.
+- *2025.03* NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild - Track 1 - 3rd place.
+- *2025.03* NTIRE 2025 Challenge on Ambient Light Normalization - 6th place.
 - *2024.08* AIM 2024 Challenge on Sparse Neural Rendering - Track 1 - 3 views - 3rd place.
 - *2024.08* AIM 2024 Challenge on Sparse Neural Rendering - Track 2 - 9 views - 3rd place.  
 - *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place. 
 
 # 📖 Educations
-- *2021.09 - 2024.11 (now)*, The Hong Kong Polytechnic University. 
+- *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
 
 # 💻 Internships
 - *2022.06 - 2022.08*, [Plaper (HK) Limited](https://plaper.hk/), Hong Kong.
