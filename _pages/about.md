@@ -22,7 +22,7 @@ I am very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.p
 
 My research interest includes computer vision, deep learning , low-level vision and 3D reconstruction.
 
-Here is my [CV](../assets/CV_Zongqi_He.pdf).
+Here is my [CV](../assets/CV_Zongqi_He.pdf) and [transcripts](../assets/Transcript_Zongqi_He.pdf).
 
 
 # 🔥 News
