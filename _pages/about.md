@@ -26,10 +26,10 @@ Here is my [CV](../assets/CV_Zongqi_He.pdf) and [transcripts](../assets/Transcri
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our team has submitted two papers to ACMMM 2025, where I contributed as first author on one and co-first author on the other.
+- *2025.04*: &nbsp;🎉🎉 Our team has submitted two papers to **ACM MM 2025**, where I contributed as first author on one and co-first author on the other.
 - *2025.03*: &nbsp;🎉🎉 Our team ranked among the top in three NTIRE 2025 Challenges.
-- *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to IEEE Transactions on Visualization and Computer Graphics (TVCG).
-- *2025.01*: &nbsp;🎉🎉 Our paper See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization has been accepted by [International Conference on Acoustics, Speech, and Signal Processin (ICASSP)](https://2025.ieeeicassp.org/) 2025.
+- *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to IEEE Transactions on Visualization and Computer Graphics **(TVCG)**.
+- *2025.01*: &nbsp;🎉🎉 Our paper See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization has been accepted by [International Conference on Acoustics, Speech, and Signal Processin **(ICASSP)**](https://2025.ieeeicassp.org/) 2025.
 - *2024.10*: &nbsp;🎉🎉 Our paper MFGan: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusing is accpeted by [International Workshop on Advanced Image Technology (IWAIT)](https://iwait.online/) 2025.
 - *2024.10*: &nbsp;🎉🎉 Our paper A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification is accpeted by [Asia-Pacific Signal and Information Processing Association (APSIPA)](https://www.apsipa.org/) 2024.
 
@@ -92,7 +92,7 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 
 # 💻 Project Experience
 * **UV prediction using GNN**
-  * I am working as a student assistant under Prof. Mengyin Li, focusing on UV index prediction around Hong Kong using Graph Neural Networks (GNNs).
+  * I am working as a student assistant under Prof. Mengying Li, focusing on UV index prediction around Hong Kong using Graph Neural Networks (GNNs).
 * **Enhancing Sparse-view 3D Gaussian Splatting**
   * We proposed a novel 3D Gaussian Splatting method, SIDGaussian, for novel view synthesis under extremely sparse input conditions. We designed a semantic regularization and local depth regularization.
     * 📝 This work has been accepted by ICASSP 2025.
