@@ -26,17 +26,15 @@ Here is my [CV](../assets/CV_Zongqi_He.pdf) and [transcripts](../assets/Transcri
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our team has submitted two papers to **ACM MM 2025**, where I contributed as first author on one and co-first author on the other.
+- *2025.09*: &nbsp;🎉🎉 Our paper is submitted to IEEE Transactions on Visualization and Computer Graphics **(TVCG)**.
+- *2025.09*: &nbsp;🎉🎉 Our team has submitted one papers to **IEEE VR 2026**, where I contributed as first author.
+- *2025.09*: &nbsp;🎉🎉 I have been a RA at University of Hong Kong.
+- *2025.08*: &nbsp;🎉🎉 Our team has submitted one papers to **IEEE TMI**.
 - *2025.03*: &nbsp;🎉🎉 Our team ranked among the top in three NTIRE 2025 Challenges.
-- *2025.01*: &nbsp;🎉🎉 Our paper on enhancing Sparse input 3D Gaussian splatting for novel view synthesis is submitted to IEEE Transactions on Visualization and Computer Graphics **(TVCG)**.
-- *2025.01*: &nbsp;🎉🎉 Our paper See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization has been accepted by [International Conference on Acoustics, Speech, and Signal Processin **(ICASSP)**](https://2025.ieeeicassp.org/) 2025.
-- *2024.10*: &nbsp;🎉🎉 Our paper MFGan: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusing is accpeted by [International Workshop on Advanced Image Technology (IWAIT)](https://iwait.online/) 2025.
-- *2024.10*: &nbsp;🎉🎉 Our paper A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification is accpeted by [Asia-Pacific Signal and Information Processing Association (APSIPA)](https://www.apsipa.org/) 2024.
 
 # 🚧 Ongoing Projects
 * Gaussian Avatar: Developing a dynamic avatar system using 3D Gaussian Splatting to enable expressive and real-time human rendering.
 * Novel View Synthesis: Enhancing Sparse-view Gaussian Splatting with Multi-view Consistent Diffusion for 360° Novel View Synthesis from Unposed Viewpoints.
-* Test Time Scaling: Exploring test-time scaling strategies within cutting-edge text-to-image generation frameworks.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/SIDGS_pipe.png' alt="sym" width="80%"></div></div>
