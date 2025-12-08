@@ -17,12 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zongqi He, received Bachelor's degree from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/en/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). 
-I am very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.polyu.edu.hk/~enkmlam/). 
-
-My research interest includes computer vision, deep learning , low-level vision and 3D reconstruction.
-
-Here is my [CV](../assets/CV_Zongqi_He.pdf).
+Hi, I'm Zongqi He, received Bachelor's degree from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/en/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.polyu.edu.hk/~enkmlam/) during my undergraduate studies.
+I am now a Ph.D. student at [The University of Hong Kong](https://www.hku.hk/), advised by [Yifan (Evan) Peng](https://www.eee.hku.hk/~evanpeng/).
+My research interest includes computer vision, deep learning , low-level vision and 3D/4D reconstruction.
 
 
 # 🔥 News
