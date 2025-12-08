@@ -19,19 +19,23 @@ redirect_from:
 
 Hi, I'm Zongqi He, received Bachelor's degree from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/en/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.polyu.edu.hk/~enkmlam/) during my undergraduate studies.
 I am now a Ph.D. student at [The University of Hong Kong](https://www.hku.hk/), advised by [Yifan (Evan) Peng](https://www.eee.hku.hk/~evanpeng/).
+
 My research interest includes computer vision, deep learning , low-level vision and 3D/4D reconstruction.
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper is submitted to IEEE Transactions on Visualization and Computer Graphics **(TVCG)**.
-- *2025.09*: &nbsp;🎉🎉 Our team has submitted one papers to **IEEE VR 2026**, where I contributed as first author.
-- *2025.09*: &nbsp;🎉🎉 I have been a RA at University of Hong Kong.
-- *2025.08*: &nbsp;🎉🎉 Our team has submitted one papers to **IEEE TMI**.
-- *2025.03*: &nbsp;🎉🎉 Our team ranked among the top in three NTIRE 2025 Challenges.
+- *2025.12*: &nbsp;🎉🎉 I joined **The University of Hong Kong (HKU)** as a Ph.D. student.
+- *2025.11*: &nbsp;🎉🎉 Our team submitted two papers to **CVPR**.
+- *2025.09*: &nbsp;🎉🎉 Our paper was submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
+- *2025.09*: &nbsp;🎉🎉 Our team submitted a paper to **IEEE VR 2026**, where I contributed as the **first author**.
+- *2025.09*: &nbsp;🎉🎉 I started working as a **Research Assistant** at **The University of Hong Kong**.
+- *2025.08*: &nbsp;🎉🎉 Our team submitted a paper to **IEEE Transactions on Medical Imaging (TMI)**.
+- 
 
 # 🚧 Ongoing Projects
-* Gaussian Avatar: Developing a dynamic avatar system using 3D Gaussian Splatting to enable expressive and real-time human rendering.
-* Novel View Synthesis: Enhancing Sparse-view Gaussian Splatting with Multi-view Consistent Diffusion for 360° Novel View Synthesis from Unposed Viewpoints.
+* Gaussian Representation: Exploring modifications of 3D Gaussian primitives to better capture high-frequency details for more accurate and realistic scene representation.
+* Edge LLM for Small Models: Designing parameter-efficient language models and investigating their deployment and applications on edge devices.
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/SIDGS_pipe.png' alt="sym" width="80%"></div></div>
@@ -102,8 +106,9 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
     * 📝 This work has been accepted by APSIPA 2024.
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, The Hong Kong Polytechnic University. 
-
+- *2021.09 - 2025.10*, The Hong Kong Polytechnic University. 
+- *2025.12 - now*, The University of Hong Kong.
+- 
 <!-- # ✈️ Travel around
 I love exploring different cultures, landscapes, and lifestyles through travel. So far, I have been to
 <span>&#127469;&#127472;</span> <span>&#127474;&#127476;</span> <span>&#127472;&#127475;</span> <span>&#127462;&#127482;</span> <span>&#127471;&#127477;</span> -->
