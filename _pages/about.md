@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zongqi He, received Bachelor's degree from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/en/eee/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.polyu.edu.hk/~enkmlam/) during my undergraduate studies.
+Hi, I'm Zongqi He. I received my Bachelor's degree from the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/en/eee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was very fortunate to be advised by [Prof. Kenneth K. M. Lam](https://www.eie.polyu.edu.hk/~enkmlam/) during my undergraduate studies.
 I am now a Ph.D. student at [The University of Hong Kong](https://www.hku.hk/), advised by [Yifan (Evan) Peng](https://www.eee.hku.hk/~evanpeng/).
 
-My research interest includes computer vision, deep learning , low-level vision and 3D/4D reconstruction.
+My research interests include computer vision, deep learning, low-level vision, and 3D/4D reconstruction.
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper [SfM-free 3D Gaussian Splatting from Extremely Sparse View](https://doi.org/10.1016/j.cag.2026.104684) is now available online in **Computers & Graphics**.
+- *2026.06*: &nbsp;🎉🎉 Our paper [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://kelvar00.github.io/PhyGaP/) was selected as a **CVPR 2026 Oral** presentation.
 - *2025.12*: &nbsp;🎉🎉 I joined **The University of Hong Kong (HKU)** as a Ph.D. student.
 - *2025.11*: &nbsp;🎉🎉 Our team submitted two papers to **CVPR**.
 - *2025.09*: &nbsp;🎉🎉 Our paper was submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
@@ -38,6 +40,20 @@ My research interest includes computer vision, deep learning , low-level vision 
 
 
 # 📝 Publications 
+## Published & Accepted
+
+1. [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://arxiv.org/abs/2603.14001) [[Project Page](https://kelvar00.github.io/PhyGaP/)]
+
+   Jiale Wu, Xiaoyang Bai, **Zongqi He**, Weiwei Xu, Yifan (Evan) Peng.
+
+   **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 (Oral).**
+
+2. [SfM-free 3D Gaussian Splatting from Extremely Sparse View](https://doi.org/10.1016/j.cag.2026.104684)
+
+   **Zongqi He**, Hanmin Li, Kin-Chung Chan, Yushen Zuo, Hao Xie, Zhe Xiao, Jun Xiao, Xiaoyang Bai, Yifan Peng, Kin-Man Lam.
+
+   **Computers & Graphics, 2026.**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/SIDGS_pipe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,6 +94,14 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 
 </div>
 </div>
+
+## Under Review
+
+- *RestoreAvatars: Towards High-Fidelity Head Avatar Reconstruction from Degraded Old Movie Facial Sequences*
+- *ConsistNav: Improving Action Consistency in Zero-Shot Object Navigation with Semantic Executive Control*
+- *Continuous-Time Gaussian Motion Adapters for Frozen Dynamic Scene Reconstruction*
+- *Towards Self-Supervised Colonoscopic Visual Odometry with Illumination-Aware 3D Gaussian Splatting*
+- *Collaborative Learning for Sparse-View Synthesis Based on Generative 3D Gaussian Splatting*
 
 # 🎖 Honors and Awards
 - *2025.03* NTIRE 2025 Challenge on Night Photography Rendering - 5th place.
