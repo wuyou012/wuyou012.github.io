@@ -54,7 +54,7 @@ Jiale Wu, Xiaoyang Bai, **Zongqi He**, Weiwei Xu, Yifan (Evan) Peng.
 
 [PhysInOne: Visual Physics Learning and Reasoning in One Suite](https://arxiv.org/abs/2604.09415) [[Project Page](https://vlar-group.github.io/PhysInOne.html)]
 
-Siyuan Zhou*, Hejun Wang*, Hu Cheng*, Jinxi Li*, DataTeam (including **Zongqi He**), et al.
+Siyuan Zhou\*, Hejun Wang\*, Hu Cheng\*, Jinxi Li\*, DataTeam (including **Zongqi He**), et al.
 
 </div>
 </div>
