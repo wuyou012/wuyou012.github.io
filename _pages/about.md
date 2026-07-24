@@ -24,10 +24,10 @@ My research interests include computer vision, deep learning, low-level vision, 
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our paper [PhysInOne: Visual Physics Learning and Reasoning in One Suite](https://vlar-group.github.io/PhysInOne.html) was presented at **CVPR 2026**.
-- *2026.07*: &nbsp;🎉🎉 Our paper [Augmented Reality Integration Improves Ergonomics in Dynamic Navigation for Dental Implant Surgery](https://doi.org/10.1002/jsid.70061) received the **Distinguished Student Paper Award** at **SID 2026**.
 - *2026.07*: &nbsp;🎉🎉 Our paper [SfM-free 3D Gaussian Splatting from Extremely Sparse View](https://doi.org/10.1016/j.cag.2026.104684) is now available online in **Computers & Graphics**.
 - *2026.06*: &nbsp;🎉🎉 Our paper [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://kelvar00.github.io/PhyGaP/) was selected as a **CVPR 2026 Oral** presentation.
+- *2026.06*: &nbsp;🎉🎉 Our paper [PhysInOne: Visual Physics Learning and Reasoning in One Suite](https://vlar-group.github.io/PhysInOne.html) was presented at **CVPR 2026**.
+- *2026.05*: &nbsp;🎉🎉 Our paper [Augmented Reality Integration Improves Ergonomics in Dynamic Navigation for Dental Implant Surgery](https://doi.org/10.1002/jsid.70061) received the **Distinguished Student Paper Award** at **SID 2026**.
 - *2025.12*: &nbsp;🎉🎉 I joined **The University of Hong Kong (HKU)** as a Ph.D. student.
 - 
 
