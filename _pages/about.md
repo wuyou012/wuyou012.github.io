@@ -27,11 +27,6 @@ My research interests include computer vision, deep learning, low-level vision, 
 - *2026.07*: &nbsp;🎉🎉 Our paper [SfM-free 3D Gaussian Splatting from Extremely Sparse View](https://doi.org/10.1016/j.cag.2026.104684) is now available online in **Computers & Graphics**.
 - *2026.06*: &nbsp;🎉🎉 Our paper [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://kelvar00.github.io/PhyGaP/) was selected as a **CVPR 2026 Oral** presentation.
 - *2025.12*: &nbsp;🎉🎉 I joined **The University of Hong Kong (HKU)** as a Ph.D. student.
-- *2025.11*: &nbsp;🎉🎉 Our team submitted two papers to **CVPR**.
-- *2025.09*: &nbsp;🎉🎉 Our paper was submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
-- *2025.09*: &nbsp;🎉🎉 Our team submitted a paper to **IEEE VR 2026**, where I contributed as the **first author**.
-- *2025.09*: &nbsp;🎉🎉 I started working as a **Research Assistant** at **The University of Hong Kong**.
-- *2025.08*: &nbsp;🎉🎉 Our team submitted a paper to **IEEE Transactions on Medical Imaging (TMI)**.
 - 
 
 # 🚧 Ongoing Projects
@@ -43,6 +38,18 @@ My research interests include computer vision, deep learning, low-level vision, 
 
 
 # 📝 Publications 
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/PhyGaP_pipeline.png' alt="PhyGaP pipeline" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://arxiv.org/abs/2603.14001) [[Project Page](https://kelvar00.github.io/PhyGaP/)]
+
+Jiale Wu, Xiaoyang Bai, **Zongqi He**, Weiwei Xu, Yifan (Evan) Peng.
+</div>
+
+</div>
 <div class='paper-box paper-box-text-only'><div class='paper-box-text' markdown="1">
 
 [Augmented Reality Integration Improves Ergonomics in Dynamic Navigation for Dental Implant Surgery](https://doi.org/10.1002/jsid.70061)
@@ -53,17 +60,6 @@ Pui Hang Leung, Feng Wang, Zhenyang Li, **Zongqi He**, Yifan Peng, Wei-fa Yang.
 
 *Journal of the Society for Information Display*, 34(5): 428-435, 2026.
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/PhyGaP_pipeline.png' alt="PhyGaP pipeline" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://arxiv.org/abs/2603.14001) [[Project Page](https://kelvar00.github.io/PhyGaP/)]
-
-Jiale Wu, Xiaoyang Bai, **Zongqi He**, Weiwei Xu, Yifan (Evan) Peng.
-
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers &amp; Graphics 2026</div><img src='images/SfMfreeGS_pipeline.jpg' alt="SfM-free 3D Gaussian Splatting pipeline" width="80%"></div></div>
@@ -126,22 +122,6 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 - *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place. 
 - *2022-2024* Dean’s Honours List (two years)
 - *2023* HKSAR Government Talent Development Scholarship
-
-# 💻 Project Experience
-* **UV prediction using GNN**
-  * I am working as a student assistant under Prof. Mengying Li, focusing on UV index prediction around Hong Kong using Graph Neural Networks (GNNs).
-* **Enhancing Sparse-view 3D Gaussian Splatting**
-  * We proposed a novel 3D Gaussian Splatting method, SIDGaussian, for novel view synthesis under extremely sparse input conditions. We designed a semantic regularization and local depth regularization.
-    * 📝 This work has been accepted by ICASSP 2025.
-  * After that, we explored the potential of leveraging diffusion models to enhance sparse-view 3DGS.
-    * Our paper has been submitted to ACM MM 2025.
-* **Medical Image Analysis**
-  * Built a novel visual odometry pipeline for colonoscopic navigation, achieving robust depth and pose estimation under illumination shifts.
-    * Our paper has been submitted to ACM MM 2025.
-* **Retina OCT Image Denoising and Classification**
-  * Proposed the FD Loss into the GAN architecture, which helps preserve the structural integrity of OCT images
-    during denoising. 
-    * 📝 This work has been accepted by APSIPA 2024.
 
 # 📖 Educations
 - *2021.09 - 2025.10*, The Hong Kong Polytechnic University. 
