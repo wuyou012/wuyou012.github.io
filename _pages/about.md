@@ -49,6 +49,15 @@ Jiale Wu, Xiaoyang Bai, **Zongqi He**, Weiwei Xu, Yifan (Evan) Peng.
 </div>
 
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/PhysInOne_teaser.jpg' alt="PhysInOne teaser" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhysInOne: Visual Physics Learning and Reasoning in One Suite](https://arxiv.org/abs/2604.09415) [[Project Page](https://vlar-group.github.io/PhysInOne.html)]
+
+Siyuan Zhou*, Hejun Wang*, Hu Cheng*, Jinxi Li*, DataTeam (including **Zongqi He**), et al.
+
+</div>
+</div>
 <div class='paper-box paper-box-text-only'><div class='paper-box-text' markdown="1">
 
 [Augmented Reality Integration Improves Ergonomics in Dynamic Navigation for Dental Implant Surgery](https://doi.org/10.1002/jsid.70061)
