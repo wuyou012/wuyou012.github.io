@@ -24,6 +24,7 @@ My research interests include computer vision, deep learning, low-level vision, 
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper [PhysInOne: Visual Physics Learning and Reasoning in One Suite](https://vlar-group.github.io/PhysInOne.html) was presented at **CVPR 2026**.
 - *2026.07*: &nbsp;🎉🎉 Our paper [Augmented Reality Integration Improves Ergonomics in Dynamic Navigation for Dental Implant Surgery](https://doi.org/10.1002/jsid.70061) received the **Distinguished Student Paper Award** at **SID 2026**.
 - *2026.07*: &nbsp;🎉🎉 Our paper [SfM-free 3D Gaussian Splatting from Extremely Sparse View](https://doi.org/10.1016/j.cag.2026.104684) is now available online in **Computers & Graphics**.
 - *2026.06*: &nbsp;🎉🎉 Our paper [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://kelvar00.github.io/PhyGaP/) was selected as a **CVPR 2026 Oral** presentation.
@@ -36,6 +37,15 @@ My research interests include computer vision, deep learning, low-level vision, 
 * **Continuous-Time Gaussian Motion Adapters:** Adapting frozen dynamic-scene reconstruction models with continuous-time Gaussian motion representations.
 * **Illumination-Aware Colonoscopic Visual Odometry:** Exploring self-supervised visual odometry for colonoscopy using illumination-aware 3D Gaussian splatting.
 * **Generative Sparse-View Synthesis:** Investigating collaborative learning for sparse-view synthesis based on generative 3D Gaussian splatting.
+
+# 💻 Project Experience
+* **Computer Vision, 3D Reconstruction, and Image Processing** — *Research Student, The Hong Kong Polytechnic University (Oct. 2023 - Sep. 2024)*
+  * Developed SIDGaussian for sparse-view novel view synthesis with semantic and local-depth regularization; this work was accepted by ICASSP 2025.
+  * Built a one-step, multi-view-consistent diffusion framework with vision conditioning and LoRA-based adaptation for efficient style transfer.
+  * Improved retina OCT image denoising and classification with a frequency-domain loss and an enhanced classification backbone.
+* **PhysInOne: Physics-Based Dataset** — *Research Assistant, The Hong Kong Polytechnic University (Apr. 2025 - Aug. 2025)*
+  * Contributed to the development of PhysInOne, a large-scale suite for visual physics learning and reasoning.
+  * Built foundational Unreal Engine and Unity skills for scene construction and animation workflows, and created UE materials and procedural workflows for scalable scene creation.
 
 
 # 📝 Publications 
