@@ -35,24 +35,33 @@ My research interests include computer vision, deep learning, low-level vision, 
 - 
 
 # 🚧 Ongoing Projects
-* Gaussian Representation: Exploring modifications of 3D Gaussian primitives to better capture high-frequency details for more accurate and realistic scene representation.
-* Edge LLM for Small Models: Designing parameter-efficient language models and investigating their deployment and applications on edge devices.
+* **RestoreAvatars:** Developing a high-fidelity head-avatar reconstruction method that is robust to degraded facial sequences from old films.
+* **ConsistNav:** Improving action consistency in zero-shot object navigation through semantic executive control.
+* **Continuous-Time Gaussian Motion Adapters:** Adapting frozen dynamic-scene reconstruction models with continuous-time Gaussian motion representations.
+* **Illumination-Aware Colonoscopic Visual Odometry:** Exploring self-supervised visual odometry for colonoscopy using illumination-aware 3D Gaussian splatting.
+* **Generative Sparse-View Synthesis:** Investigating collaborative learning for sparse-view synthesis based on generative 3D Gaussian splatting.
 
 
 # 📝 Publications 
-## Published & Accepted
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/PhyGaP_pipeline.png' alt="PhyGaP pipeline" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-1. [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://arxiv.org/abs/2603.14001) [[Project Page](https://kelvar00.github.io/PhyGaP/)]
+[PhyGaP: Physically-Grounded Gaussians with Polarization Cues](https://arxiv.org/abs/2603.14001) [[Project Page](https://kelvar00.github.io/PhyGaP/)]
 
-   Jiale Wu, Xiaoyang Bai, **Zongqi He**, Weiwei Xu, Yifan (Evan) Peng.
+Jiale Wu, Xiaoyang Bai, **Zongqi He**, Weiwei Xu, Yifan (Evan) Peng.
 
-   **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 (Oral).**
+</div>
+</div>
 
-2. [SfM-free 3D Gaussian Splatting from Extremely Sparse View](https://doi.org/10.1016/j.cag.2026.104684)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers &amp; Graphics 2026</div><img src='images/SfMfreeGS_pipeline.jpg' alt="SfM-free 3D Gaussian Splatting pipeline" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-   **Zongqi He**, Hanmin Li, Kin-Chung Chan, Yushen Zuo, Hao Xie, Zhe Xiao, Jun Xiao, Xiaoyang Bai, Yifan Peng, Kin-Man Lam.
+[SfM-free 3D Gaussian Splatting from Extremely Sparse View](https://doi.org/10.1016/j.cag.2026.104684)
 
-   **Computers & Graphics, 2026.**
+**Zongqi He**, Hanmin Li, Kin-Chung Chan, Yushen Zuo, Hao Xie, Zhe Xiao, Jun Xiao, Xiaoyang Bai, Yifan Peng, Kin-Man Lam.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/SIDGS_pipe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,14 +103,6 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 
 </div>
 </div>
-
-## Under Review
-
-- *RestoreAvatars: Towards High-Fidelity Head Avatar Reconstruction from Degraded Old Movie Facial Sequences*
-- *ConsistNav: Improving Action Consistency in Zero-Shot Object Navigation with Semantic Executive Control*
-- *Continuous-Time Gaussian Motion Adapters for Frozen Dynamic Scene Reconstruction*
-- *Towards Self-Supervised Colonoscopic Visual Odometry with Illumination-Aware 3D Gaussian Splatting*
-- *Collaborative Learning for Sparse-View Synthesis Based on Generative 3D Gaussian Splatting*
 
 # 🎖 Honors and Awards
 - *2025.03* NTIRE 2025 Challenge on Night Photography Rendering - 5th place.
