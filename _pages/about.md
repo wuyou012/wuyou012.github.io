@@ -43,6 +43,19 @@ My research interests include computer vision, deep learning, low-level vision, 
 
 
 # 📝 Publications 
+<div class='paper-box paper-box-text-only'><div class='paper-box-text' markdown="1">
+
+[Augmented Reality Integration Improves Ergonomics in Dynamic Navigation for Dental Implant Surgery](https://doi.org/10.1002/jsid.70061)
+
+**🏆 Distinguished Student Paper Award**
+
+Pui Hang Leung, Feng Wang, Zhenyang Li, **Zongqi He**, Yifan Peng, Wei-fa Yang.
+
+*Journal of the Society for Information Display*, 34(5): 428-435, 2026.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/PhyGaP_pipeline.png' alt="PhyGaP pipeline" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
