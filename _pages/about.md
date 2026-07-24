@@ -39,8 +39,6 @@ My research interests include computer vision, deep learning, low-level vision, 
 
 # 📝 Publications 
 
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Oral</div><img src='images/PhyGaP_pipeline.png' alt="PhyGaP pipeline" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,6 +58,7 @@ Pui Hang Leung, Feng Wang, Zhenyang Li, **Zongqi He**, Yifan Peng, Wei-fa Yang.
 
 *Journal of the Society for Information Display*, 34(5): 428-435, 2026.
 
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers &amp; Graphics 2026</div><img src='images/SfMfreeGS_pipeline.jpg' alt="SfM-free 3D Gaussian Splatting pipeline" width="80%"></div></div>
