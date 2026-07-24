@@ -134,7 +134,7 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 - *2023* HKSAR Government Talent Development Scholarship
 
 # 💻 Project Experience
-* **Computer Vision, 3D Reconstruction, and Image Processing** — *Research Student, The Hong Kong Polytechnic University, advised by Jun Xiao and Kenneth Lam*
+* **Computer Vision, 3D Reconstruction, and Image Processing** — *The Hong Kong Polytechnic University, advised by Jun Xiao and Kenneth Lam*
   * Developed SIDGaussian for sparse-view novel view synthesis with semantic and local-depth regularization; this work was accepted by ICASSP 2025.
   * Built a one-step, multi-view-consistent diffusion framework with vision conditioning and LoRA-based adaptation for efficient style transfer.
   * Improved retina OCT image denoising and classification with a frequency-domain loss and an enhanced classification backbone.
