@@ -38,15 +38,6 @@ My research interests include computer vision, deep learning, low-level vision, 
 * **Illumination-Aware Colonoscopic Visual Odometry:** Exploring self-supervised visual odometry for colonoscopy using illumination-aware 3D Gaussian splatting.
 * **Generative Sparse-View Synthesis:** Investigating collaborative learning for sparse-view synthesis based on generative 3D Gaussian splatting.
 
-# 💻 Project Experience
-* **Computer Vision, 3D Reconstruction, and Image Processing** — *Research Student, The Hong Kong Polytechnic University (Oct. 2023 - Sep. 2024)*
-  * Developed SIDGaussian for sparse-view novel view synthesis with semantic and local-depth regularization; this work was accepted by ICASSP 2025.
-  * Built a one-step, multi-view-consistent diffusion framework with vision conditioning and LoRA-based adaptation for efficient style transfer.
-  * Improved retina OCT image denoising and classification with a frequency-domain loss and an enhanced classification backbone.
-* **PhysInOne: Physics-Based Dataset** — *Research Assistant, The Hong Kong Polytechnic University (Apr. 2025 - Aug. 2025)*
-  * Contributed to the development of PhysInOne, a large-scale suite for visual physics learning and reasoning.
-  * Built foundational Unreal Engine and Unity skills for scene construction and animation workflows, and created UE materials and procedural workflows for scalable scene creation.
-
 
 # 📝 Publications 
 
@@ -141,6 +132,15 @@ Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, **Zongqi He**,
 - *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place. 
 - *2022-2024* Dean’s Honours List (two years)
 - *2023* HKSAR Government Talent Development Scholarship
+
+# 💻 Project Experience
+* **Computer Vision, 3D Reconstruction, and Image Processing** — *Research Student, The Hong Kong Polytechnic University, advised by Jun Xiao and Kenneth Lam*
+  * Developed SIDGaussian for sparse-view novel view synthesis with semantic and local-depth regularization; this work was accepted by ICASSP 2025.
+  * Built a one-step, multi-view-consistent diffusion framework with vision conditioning and LoRA-based adaptation for efficient style transfer.
+  * Improved retina OCT image denoising and classification with a frequency-domain loss and an enhanced classification backbone.
+* **PhysInOne: Physics-Based Dataset** — *Research Assistant, The Hong Kong Polytechnic University*
+  * Contributed to the development of PhysInOne, a large-scale suite for visual physics learning and reasoning.
+  * Built foundational Unreal Engine and Unity skills for scene construction and animation workflows, and created UE materials and procedural workflows for scalable scene creation.
 
 # 📖 Educations
 - *2021.09 - 2025.10*, The Hong Kong Polytechnic University. 
